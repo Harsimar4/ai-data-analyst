@@ -1,0 +1,9 @@
+product,region,units,price,revenue
+Laptop,North,12,55000,660000
+Phone,North,40,22000,880000
+Tablet,South,25,18000,450000
+Laptop,South,8,55000,440000
+Phone,East,55,22000,1210000
+Headphones,East,90,2500,225000
+Tablet,West,30,18000,540000
+Headphones,West,70,2500,175000
